@@ -17,3 +17,8 @@ body {
     position: relative;
     overflow: hidden;
   }
+  .btn span {
+    position: relative;
+    z-index: 1;
+  }
+  
